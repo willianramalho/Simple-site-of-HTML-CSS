@@ -6,6 +6,10 @@ h1{
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+p{
+    color: white;
+    font-size: medium;
+}
 
 header{
     background-color:black;
